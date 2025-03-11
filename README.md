@@ -163,5 +163,9 @@ If you find this work useful, welcome to cite us.
 
 ```bib
 @inproceedings{
+ye202512surveyfedllm,
+      title={A Survey on Large Language Models Federated Learning}, 
+      author={Yebo Wu and Chunlin Tian and Li Li and Chengzhong Xu},
+      year={2025}
 }
 ```
