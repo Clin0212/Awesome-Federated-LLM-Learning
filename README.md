@@ -162,10 +162,13 @@
 If you find this work useful, welcome to cite us.
 
 ```bib
-@inproceedings{
-ye202512surveyfedllm,
-      title={A Survey on Large Language Models Federated Learning}, 
-      author={Yebo Wu and Chunlin Tian and Kahou Tam and Li Li and Chengzhong Xu},
-      year={2025}
+@misc{wu2025surveyfederatedfinetuninglarge,
+      title={A Survey on Federated Fine-tuning of Large Language Models}, 
+      author={Yebo Wu and Chunlin Tian and Jingguang Li and He Sun and Kahou Tam and Li Li and Chengzhong Xu},
+      year={2025},
+      eprint={2503.12016},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.12016}, 
 }
 ```
