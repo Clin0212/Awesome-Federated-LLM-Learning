@@ -1,7 +1,16 @@
 # Awesome-Federated-LLM-Learning
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
+<!-- omit in toc -->
+## 📢 Updates
+
+We released a survey paper "[A Survey on Federated Fine-tuning of Large Language Models](https://arxiv.org/pdf/2503.12016)". Feel free to cite or open pull requests.
+
 ⚠️ NOTE: If there is any missing or new relevant literature, please feel free to submit an issue. we will update the Github and Arxiv papers regularly. 😊
+
+<!-- omit in toc -->
+## 👀 Overall Structure
+![alt text](figures/Structure.png)
 
 <!-- omit in toc -->
 ## 📒 Table of Contents
